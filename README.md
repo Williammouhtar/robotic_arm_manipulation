@@ -25,3 +25,12 @@ calculateInverseKinematics() arguably the most important function, calculates th
 for most of the functions used above, I was initially lost as to what the inputs / arguments must be as the documentation wasn't necessarily clear on that. This is where using a LLM such as ChatGPT helped greatly to explain the intuition behind them, what arguments need to be passed ,
 and how they work by giving me sample codes / small illustrative examples to know what to do.
 Of course, I also used it to fix syntax errors.
+
+## What could be done next ? 
+
+As a first introduction to PyBullet, I think getting a robotic arm to a certain position is already a good start.
+Some stuff that could be done to evolve would definitely be:
+
+-Grabbing the object and putting it on another one,
+-tossing an object so it lands precisely in a specific zone
+...
