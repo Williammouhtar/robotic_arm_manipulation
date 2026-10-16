@@ -20,7 +20,7 @@ calculateInverseKinematics() arguably the most important function, calculates th
 1 - at first, not knowing that calculateInverseKinematics() exists, I thought I needed to go back to my relavend coursework (namely basics of robotics for manipulation) and calculate the rotation angles needed to get to the object.
 2 - Didn't know that a sleeptime option was needed and the robot would move almost instantly, not allowing to see precisely what movement was happening along the way, only showing the end position. This issue was eventually solved using ChatGPT.
 
-## HELP FROM LLM's:
+## HELP FROM LLMs:
 
 for most of the functions used above, I was initially lost as to what the inputs / arguments must be as the documentation wasn't necessarily clear on that. This is where using a LLM such as ChatGPT helped greatly to explain the intuition behind them, what arguments need to be passed ,
 and how they work by giving me sample codes / small illustrative examples to know what to do.
